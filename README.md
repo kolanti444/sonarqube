@@ -1,1 +1,1 @@
-# sonarqube
+# sonarqube in centOS7
